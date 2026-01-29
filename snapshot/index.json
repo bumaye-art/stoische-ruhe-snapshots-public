@@ -1,14 +1,74 @@
 {
   "pages": [
     {
+      "id": 1128,
+      "type": "page",
+      "status": "publish",
+      "slug": "ueber-zustimmung-zur-weltordnung",
+      "parent": 129,
+      "modified_gmt": "2026-01-29 12:39:17",
+      "url": "https://stoische-ruhe.de/stoische-texte/ueber-zustimmung-zur-weltordnung/",
+      "title": "Über Zustimmung zur Weltordnung"
+    },
+    {
+      "id": 129,
+      "type": "page",
+      "status": "publish",
+      "slug": "stoische-texte",
+      "parent": 0,
+      "modified_gmt": "2026-01-29 12:37:32",
+      "url": "https://stoische-ruhe.de/stoische-texte/",
+      "title": "Stoische Texte"
+    },
+    {
+      "id": 1125,
+      "type": "page",
+      "status": "publish",
+      "slug": "ueber-den-ersten-schritt",
+      "parent": 129,
+      "modified_gmt": "2026-01-29 12:36:46",
+      "url": "https://stoische-ruhe.de/stoische-texte/ueber-den-ersten-schritt/",
+      "title": "Über den ersten Schritt"
+    },
+    {
+      "id": 1094,
+      "type": "page",
+      "status": "publish",
+      "slug": "uebereinstimmung-mit-der-natur",
+      "parent": 129,
+      "modified_gmt": "2026-01-29 12:25:00",
+      "url": "https://stoische-ruhe.de/stoische-texte/uebereinstimmung-mit-der-natur/",
+      "title": "Übereinstimmung mit der Natur"
+    },
+    {
+      "id": 1006,
+      "type": "page",
+      "status": "publish",
+      "slug": "ueber-die-rolle",
+      "parent": 129,
+      "modified_gmt": "2026-01-29 12:24:34",
+      "url": "https://stoische-ruhe.de/stoische-texte/ueber-die-rolle/",
+      "title": "Über die Rolle"
+    },
+    {
       "id": 1110,
       "type": "page",
       "status": "publish",
       "slug": "ueber-den-anfang-der-uebung",
-      "parent": 0,
-      "modified_gmt": "2026-01-29 11:49:14",
-      "url": "https://stoische-ruhe.de/ueber-den-anfang-der-uebung/",
+      "parent": 129,
+      "modified_gmt": "2026-01-29 12:24:04",
+      "url": "https://stoische-ruhe.de/stoische-texte/ueber-den-anfang-der-uebung/",
       "title": "Über den Anfang der Übung"
+    },
+    {
+      "id": 563,
+      "type": "page",
+      "status": "publish",
+      "slug": "angemessenheit",
+      "parent": 152,
+      "modified_gmt": "2026-01-29 12:21:54",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/angemessenheit/",
+      "title": "Angemessenheit"
     },
     {
       "id": 1107,
@@ -31,16 +91,6 @@
       "title": "Startseite"
     },
     {
-      "id": 129,
-      "type": "page",
-      "status": "publish",
-      "slug": "stoische-texte",
-      "parent": 0,
-      "modified_gmt": "2026-01-29 06:48:39",
-      "url": "https://stoische-ruhe.de/stoische-texte/",
-      "title": "Stoische Texte"
-    },
-    {
       "id": 666,
       "type": "page",
       "status": "publish",
@@ -59,16 +109,6 @@
       "modified_gmt": "2026-01-29 04:28:48",
       "url": "https://stoische-ruhe.de/philosophen/zenon/",
       "title": "Zenon von Kition"
-    },
-    {
-      "id": 1094,
-      "type": "page",
-      "status": "publish",
-      "slug": "uebereinstimmung-mit-der-natur",
-      "parent": 0,
-      "modified_gmt": "2026-01-29 04:27:17",
-      "url": "https://stoische-ruhe.de/uebereinstimmung-mit-der-natur/",
-      "title": "Übereinstimmung mit der Natur"
     },
     {
       "id": 170,
@@ -191,16 +231,6 @@
       "title": "Kleanthes"
     },
     {
-      "id": 1006,
-      "type": "page",
-      "status": "publish",
-      "slug": "ueber-die-rolle",
-      "parent": 0,
-      "modified_gmt": "2026-01-28 05:40:35",
-      "url": "https://stoische-ruhe.de/ueber-die-rolle/",
-      "title": "Über die Rolle"
-    },
-    {
       "id": 455,
       "type": "page",
       "status": "publish",
@@ -259,16 +289,6 @@
       "modified_gmt": "2026-01-18 05:48:41",
       "url": "https://stoische-ruhe.de/begriffe-konzepte/tapferkeit/",
       "title": "Tapferkeit"
-    },
-    {
-      "id": 563,
-      "type": "page",
-      "status": "publish",
-      "slug": "angemessenheit",
-      "parent": 152,
-      "modified_gmt": "2026-01-17 15:53:58",
-      "url": "https://stoische-ruhe.de/begriffe-konzepte/angemessenheit/",
-      "title": "Angemessenheit"
     },
     {
       "id": 148,
