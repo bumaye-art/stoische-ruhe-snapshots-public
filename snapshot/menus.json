@@ -1,0 +1,96 @@
+[
+  {
+    "menu_id": 16,
+    "name": "Footer",
+    "slug": "footer",
+    "items": [
+      {
+        "id": 457,
+        "title": "Datenschutz",
+        "url": "https://stoische-ruhe.de/datenschutz/",
+        "type": "post_type",
+        "object": "page",
+        "object_id": 453,
+        "menu_item_parent": 0,
+        "position": 1
+      },
+      {
+        "id": 458,
+        "title": "Impressum",
+        "url": "https://stoische-ruhe.de/impressum/",
+        "type": "post_type",
+        "object": "page",
+        "object_id": 451,
+        "menu_item_parent": 0,
+        "position": 2
+      },
+      {
+        "id": 459,
+        "title": "Kontakt",
+        "url": "https://stoische-ruhe.de/kontakt/",
+        "type": "post_type",
+        "object": "page",
+        "object_id": 455,
+        "menu_item_parent": 0,
+        "position": 3
+      }
+    ]
+  },
+  {
+    "menu_id": 11,
+    "name": "Hauptmenü",
+    "slug": "hauptmenue",
+    "items": [
+      {
+        "id": 1070,
+        "title": "Einstieg",
+        "url": "https://stoische-ruhe.de/einstieg/",
+        "type": "post_type",
+        "object": "page",
+        "object_id": 839,
+        "menu_item_parent": 0,
+        "position": 1
+      },
+      {
+        "id": 139,
+        "title": "Stoische Texte",
+        "url": "https://stoische-ruhe.de/stoische-texte/",
+        "type": "post_type",
+        "object": "page",
+        "object_id": 129,
+        "menu_item_parent": 0,
+        "position": 2
+      },
+      {
+        "id": 176,
+        "title": "Begriffe &amp; Konzepte",
+        "url": "https://stoische-ruhe.de/begriffe-konzepte/",
+        "type": "post_type",
+        "object": "page",
+        "object_id": 152,
+        "menu_item_parent": 0,
+        "position": 3
+      },
+      {
+        "id": 175,
+        "title": "Philosophen",
+        "url": "https://stoische-ruhe.de/philosophen/",
+        "type": "post_type",
+        "object": "page",
+        "object_id": 170,
+        "menu_item_parent": 0,
+        "position": 4
+      },
+      {
+        "id": 88,
+        "title": "Blog",
+        "url": "https://stoische-ruhe.de/blog/",
+        "type": "post_type",
+        "object": "page",
+        "object_id": 26,
+        "menu_item_parent": 0,
+        "position": 5
+      }
+    ]
+  }
+]

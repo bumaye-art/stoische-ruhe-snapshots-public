@@ -1,0 +1,716 @@
+{
+  "pages": [
+    {
+      "id": 865,
+      "type": "page",
+      "status": "publish",
+      "slug": "start",
+      "parent": 0,
+      "modified_gmt": "2026-01-29 07:34:16",
+      "url": "https://stoische-ruhe.de/",
+      "title": "Startseite"
+    },
+    {
+      "id": 129,
+      "type": "page",
+      "status": "publish",
+      "slug": "stoische-texte",
+      "parent": 0,
+      "modified_gmt": "2026-01-29 06:48:39",
+      "url": "https://stoische-ruhe.de/stoische-texte/",
+      "title": "Stoische Texte"
+    },
+    {
+      "id": 666,
+      "type": "page",
+      "status": "publish",
+      "slug": "ueber-das-einzige-gute",
+      "parent": 129,
+      "modified_gmt": "2026-01-29 04:28:52",
+      "url": "https://stoische-ruhe.de/stoische-texte/ueber-das-einzige-gute/",
+      "title": "Über das einzige Gute"
+    },
+    {
+      "id": 301,
+      "type": "page",
+      "status": "publish",
+      "slug": "zenon",
+      "parent": 170,
+      "modified_gmt": "2026-01-29 04:28:48",
+      "url": "https://stoische-ruhe.de/philosophen/zenon/",
+      "title": "Zenon von Kition"
+    },
+    {
+      "id": 1094,
+      "type": "page",
+      "status": "publish",
+      "slug": "uebereinstimmung-mit-der-natur",
+      "parent": 0,
+      "modified_gmt": "2026-01-29 04:27:17",
+      "url": "https://stoische-ruhe.de/uebereinstimmung-mit-der-natur/",
+      "title": "Übereinstimmung mit der Natur"
+    },
+    {
+      "id": 170,
+      "type": "page",
+      "status": "publish",
+      "slug": "philosophen",
+      "parent": 0,
+      "modified_gmt": "2026-01-29 03:34:16",
+      "url": "https://stoische-ruhe.de/philosophen/",
+      "title": "Philosophen"
+    },
+    {
+      "id": 152,
+      "type": "page",
+      "status": "publish",
+      "slug": "begriffe-konzepte",
+      "parent": 0,
+      "modified_gmt": "2026-01-28 13:34:29",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/",
+      "title": "Begriffe &amp; Konzepte"
+    },
+    {
+      "id": 839,
+      "type": "page",
+      "status": "publish",
+      "slug": "einstieg",
+      "parent": 0,
+      "modified_gmt": "2026-01-28 13:31:14",
+      "url": "https://stoische-ruhe.de/einstieg/",
+      "title": "Einstieg"
+    },
+    {
+      "id": 317,
+      "type": "page",
+      "status": "publish",
+      "slug": "hekaton",
+      "parent": 170,
+      "modified_gmt": "2026-01-28 08:10:20",
+      "url": "https://stoische-ruhe.de/philosophen/hekaton/",
+      "title": "Hekaton"
+    },
+    {
+      "id": 178,
+      "type": "page",
+      "status": "publish",
+      "slug": "marc-aurel",
+      "parent": 170,
+      "modified_gmt": "2026-01-28 07:00:15",
+      "url": "https://stoische-ruhe.de/philosophen/marc-aurel/",
+      "title": "Marc Aurel"
+    },
+    {
+      "id": 192,
+      "type": "page",
+      "status": "publish",
+      "slug": "epiktet",
+      "parent": 170,
+      "modified_gmt": "2026-01-28 06:59:56",
+      "url": "https://stoische-ruhe.de/philosophen/epiktet/",
+      "title": "Epiktet"
+    },
+    {
+      "id": 320,
+      "type": "page",
+      "status": "publish",
+      "slug": "gaius-musonius-rufus",
+      "parent": 170,
+      "modified_gmt": "2026-01-28 06:59:36",
+      "url": "https://stoische-ruhe.de/philosophen/gaius-musonius-rufus/",
+      "title": "Gaius Musonius Rufus"
+    },
+    {
+      "id": 187,
+      "type": "page",
+      "status": "publish",
+      "slug": "seneca",
+      "parent": 170,
+      "modified_gmt": "2026-01-28 06:59:12",
+      "url": "https://stoische-ruhe.de/philosophen/seneca/",
+      "title": "Seneca"
+    },
+    {
+      "id": 315,
+      "type": "page",
+      "status": "publish",
+      "slug": "poseidonios",
+      "parent": 170,
+      "modified_gmt": "2026-01-28 06:58:53",
+      "url": "https://stoische-ruhe.de/philosophen/poseidonios/",
+      "title": "Poseidonios"
+    },
+    {
+      "id": 311,
+      "type": "page",
+      "status": "publish",
+      "slug": "panaitios",
+      "parent": 170,
+      "modified_gmt": "2026-01-28 06:58:11",
+      "url": "https://stoische-ruhe.de/philosophen/panaitios/",
+      "title": "Panaitios"
+    },
+    {
+      "id": 309,
+      "type": "page",
+      "status": "publish",
+      "slug": "chrysippos",
+      "parent": 170,
+      "modified_gmt": "2026-01-28 06:57:48",
+      "url": "https://stoische-ruhe.de/philosophen/chrysippos/",
+      "title": "Chrysippos"
+    },
+    {
+      "id": 307,
+      "type": "page",
+      "status": "publish",
+      "slug": "kleanthes",
+      "parent": 170,
+      "modified_gmt": "2026-01-28 06:57:18",
+      "url": "https://stoische-ruhe.de/philosophen/kleanthes/",
+      "title": "Kleanthes"
+    },
+    {
+      "id": 1006,
+      "type": "page",
+      "status": "publish",
+      "slug": "ueber-die-rolle",
+      "parent": 0,
+      "modified_gmt": "2026-01-28 05:40:35",
+      "url": "https://stoische-ruhe.de/ueber-die-rolle/",
+      "title": "Über die Rolle"
+    },
+    {
+      "id": 455,
+      "type": "page",
+      "status": "publish",
+      "slug": "kontakt",
+      "parent": 0,
+      "modified_gmt": "2026-01-18 17:38:15",
+      "url": "https://stoische-ruhe.de/kontakt/",
+      "title": "Kontakt"
+    },
+    {
+      "id": 451,
+      "type": "page",
+      "status": "publish",
+      "slug": "impressum",
+      "parent": 0,
+      "modified_gmt": "2026-01-18 17:38:08",
+      "url": "https://stoische-ruhe.de/impressum/",
+      "title": "Impressum"
+    },
+    {
+      "id": 453,
+      "type": "page",
+      "status": "publish",
+      "slug": "datenschutz",
+      "parent": 0,
+      "modified_gmt": "2026-01-18 17:38:03",
+      "url": "https://stoische-ruhe.de/datenschutz/",
+      "title": "Datenschutz"
+    },
+    {
+      "id": 833,
+      "type": "page",
+      "status": "publish",
+      "slug": "oikeiosis",
+      "parent": 152,
+      "modified_gmt": "2026-01-18 06:18:39",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/oikeiosis/",
+      "title": "Oikeiosis"
+    },
+    {
+      "id": 829,
+      "type": "page",
+      "status": "publish",
+      "slug": "apatheia",
+      "parent": 152,
+      "modified_gmt": "2026-01-18 06:12:34",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/apatheia/",
+      "title": "Apatheia"
+    },
+    {
+      "id": 332,
+      "type": "page",
+      "status": "publish",
+      "slug": "tapferkeit",
+      "parent": 152,
+      "modified_gmt": "2026-01-18 05:48:41",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/tapferkeit/",
+      "title": "Tapferkeit"
+    },
+    {
+      "id": 563,
+      "type": "page",
+      "status": "publish",
+      "slug": "angemessenheit",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 15:53:58",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/angemessenheit/",
+      "title": "Angemessenheit"
+    },
+    {
+      "id": 148,
+      "type": "page",
+      "status": "publish",
+      "slug": "ueber-die-verganglichkeit",
+      "parent": 129,
+      "modified_gmt": "2026-01-17 15:19:20",
+      "url": "https://stoische-ruhe.de/stoische-texte/ueber-die-verganglichkeit/",
+      "title": "Über die Vergänglichkeit"
+    },
+    {
+      "id": 140,
+      "type": "page",
+      "status": "publish",
+      "slug": "ueber-wahrnehmung-urteil",
+      "parent": 129,
+      "modified_gmt": "2026-01-17 15:18:39",
+      "url": "https://stoische-ruhe.de/stoische-texte/ueber-wahrnehmung-urteil/",
+      "title": "Über Wahrnehmung &amp; Urteil"
+    },
+    {
+      "id": 198,
+      "type": "page",
+      "status": "publish",
+      "slug": "ueber-innere-freiheit",
+      "parent": 129,
+      "modified_gmt": "2026-01-17 15:15:10",
+      "url": "https://stoische-ruhe.de/stoische-texte/ueber-innere-freiheit/",
+      "title": "Über innere Freiheit"
+    },
+    {
+      "id": 798,
+      "type": "page",
+      "status": "publish",
+      "slug": "ueber-die-zeit",
+      "parent": 129,
+      "modified_gmt": "2026-01-17 14:30:08",
+      "url": "https://stoische-ruhe.de/stoische-texte/ueber-die-zeit/",
+      "title": "Über die Zeit"
+    },
+    {
+      "id": 629,
+      "type": "page",
+      "status": "publish",
+      "slug": "selbstverantwortung",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 14:29:27",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/selbstverantwortung/",
+      "title": "Selbstverantwortung"
+    },
+    {
+      "id": 597,
+      "type": "page",
+      "status": "publish",
+      "slug": "weltordnung",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 14:28:59",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/weltordnung/",
+      "title": "Weltordnung"
+    },
+    {
+      "id": 593,
+      "type": "page",
+      "status": "publish",
+      "slug": "natur",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 14:27:55",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/natur/",
+      "title": "Natur"
+    },
+    {
+      "id": 231,
+      "type": "page",
+      "status": "publish",
+      "slug": "kontrolle",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:29:34",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/kontrolle/",
+      "title": "Kontrolle"
+    },
+    {
+      "id": 218,
+      "type": "page",
+      "status": "publish",
+      "slug": "pflicht-verantwortung",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:29:22",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/pflicht-verantwortung/",
+      "title": "Pflicht &amp; Verantwortung"
+    },
+    {
+      "id": 213,
+      "type": "page",
+      "status": "publish",
+      "slug": "vergaenglichkeit",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:29:15",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/vergaenglichkeit/",
+      "title": "Vergänglichkeit"
+    },
+    {
+      "id": 211,
+      "type": "page",
+      "status": "publish",
+      "slug": "tugend",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:29:06",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/tugend/",
+      "title": "Tugend"
+    },
+    {
+      "id": 340,
+      "type": "page",
+      "status": "publish",
+      "slug": "naturgemaesses-leben",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:28:59",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/naturgemaesses-leben/",
+      "title": "Naturgemäßes Leben"
+    },
+    {
+      "id": 208,
+      "type": "page",
+      "status": "publish",
+      "slug": "gelassenheit",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:28:49",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/gelassenheit/",
+      "title": "Gelassenheit"
+    },
+    {
+      "id": 162,
+      "type": "page",
+      "status": "publish",
+      "slug": "urteil",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:28:41",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/urteil/",
+      "title": "Urteil"
+    },
+    {
+      "id": 671,
+      "type": "page",
+      "status": "publish",
+      "slug": "zeit",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:28:28",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/zeit/",
+      "title": "Zeit"
+    },
+    {
+      "id": 324,
+      "type": "page",
+      "status": "publish",
+      "slug": "weisheit",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:28:14",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/weisheit/",
+      "title": "Weisheit"
+    },
+    {
+      "id": 360,
+      "type": "page",
+      "status": "publish",
+      "slug": "wahrnehmung",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:28:00",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/wahrnehmung/",
+      "title": "Wahrnehmung"
+    },
+    {
+      "id": 557,
+      "type": "page",
+      "status": "publish",
+      "slug": "vernunft",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:27:51",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/vernunft/",
+      "title": "Vernunft"
+    },
+    {
+      "id": 368,
+      "type": "page",
+      "status": "publish",
+      "slug": "uebung-askesis",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:27:41",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/uebung-askesis/",
+      "title": "Übung (Askesis)"
+    },
+    {
+      "id": 365,
+      "type": "page",
+      "status": "publish",
+      "slug": "selbstfuehrung",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:27:20",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/selbstfuehrung/",
+      "title": "Selbstführung"
+    },
+    {
+      "id": 335,
+      "type": "page",
+      "status": "publish",
+      "slug": "maessigung",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:27:04",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/maessigung/",
+      "title": "Mäßigung"
+    },
+    {
+      "id": 394,
+      "type": "page",
+      "status": "publish",
+      "slug": "logos",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:26:43",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/logos/",
+      "title": "Logos"
+    },
+    {
+      "id": 363,
+      "type": "page",
+      "status": "publish",
+      "slug": "innere-freiheit",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:24:54",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/innere-freiheit/",
+      "title": "Innere Freiheit"
+    },
+    {
+      "id": 329,
+      "type": "page",
+      "status": "publish",
+      "slug": "gerechtigkeit",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:24:38",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/gerechtigkeit/",
+      "title": "Gerechtigkeit"
+    },
+    {
+      "id": 691,
+      "type": "page",
+      "status": "publish",
+      "slug": "aufmerksamkeit",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:23:59",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/aufmerksamkeit/",
+      "title": "Aufmerksamkeit"
+    },
+    {
+      "id": 398,
+      "type": "page",
+      "status": "publish",
+      "slug": "affekt",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:23:34",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/affekt/",
+      "title": "Affekt"
+    },
+    {
+      "id": 240,
+      "type": "page",
+      "status": "publish",
+      "slug": "ueber-das-urteil",
+      "parent": 129,
+      "modified_gmt": "2026-01-17 13:13:47",
+      "url": "https://stoische-ruhe.de/stoische-texte/ueber-das-urteil/",
+      "title": "Über das Urteil"
+    },
+    {
+      "id": 656,
+      "type": "page",
+      "status": "publish",
+      "slug": "ueber-zustimmung",
+      "parent": 129,
+      "modified_gmt": "2026-01-17 13:11:41",
+      "url": "https://stoische-ruhe.de/stoische-texte/ueber-zustimmung/",
+      "title": "Über Zustimmung"
+    },
+    {
+      "id": 660,
+      "type": "page",
+      "status": "publish",
+      "slug": "ueber-mass-im-begehren",
+      "parent": 129,
+      "modified_gmt": "2026-01-17 13:11:26",
+      "url": "https://stoische-ruhe.de/stoische-texte/ueber-mass-im-begehren/",
+      "title": "Über Maß im Begehren"
+    },
+    {
+      "id": 652,
+      "type": "page",
+      "status": "publish",
+      "slug": "ueber-die-gegenwart",
+      "parent": 129,
+      "modified_gmt": "2026-01-17 13:11:08",
+      "url": "https://stoische-ruhe.de/stoische-texte/ueber-die-gegenwart/",
+      "title": "Über die Gegenwart"
+    },
+    {
+      "id": 683,
+      "type": "page",
+      "status": "publish",
+      "slug": "zustimmung",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:09:56",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/zustimmung/",
+      "title": "Zustimmung"
+    },
+    {
+      "id": 703,
+      "type": "page",
+      "status": "publish",
+      "slug": "innere-wahl",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:09:41",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/innere-wahl/",
+      "title": "Innere Wahl"
+    },
+    {
+      "id": 686,
+      "type": "page",
+      "status": "publish",
+      "slug": "indifferenz",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:09:35",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/indifferenz/",
+      "title": "Indifferenz"
+    },
+    {
+      "id": 696,
+      "type": "page",
+      "status": "publish",
+      "slug": "eindruck",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:09:25",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/eindruck/",
+      "title": "Eindruck"
+    },
+    {
+      "id": 624,
+      "type": "page",
+      "status": "publish",
+      "slug": "werturteil",
+      "parent": 152,
+      "modified_gmt": "2026-01-16 12:48:26",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/werturteil/",
+      "title": "Werturteil"
+    },
+    {
+      "id": 608,
+      "type": "page",
+      "status": "publish",
+      "slug": "einfachheit",
+      "parent": 152,
+      "modified_gmt": "2026-01-16 12:32:24",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/einfachheit/",
+      "title": "Einfachheit"
+    },
+    {
+      "id": 605,
+      "type": "page",
+      "status": "publish",
+      "slug": "selbstdisziplin",
+      "parent": 152,
+      "modified_gmt": "2026-01-16 12:32:13",
+      "url": "https://stoische-ruhe.de/begriffe-konzepte/selbstdisziplin/",
+      "title": "Selbstdisziplin"
+    },
+    {
+      "id": 26,
+      "type": "page",
+      "status": "publish",
+      "slug": "blog",
+      "parent": 0,
+      "modified_gmt": "2026-01-14 04:54:46",
+      "url": "https://stoische-ruhe.de/blog/",
+      "title": "Blog"
+    }
+  ],
+  "posts": [
+    {
+      "id": 422,
+      "type": "post",
+      "status": "publish",
+      "slug": "warum-stoische-ruhe-nichts-mit-gleichgueltigkeit-zu-tun-hat",
+      "parent": 0,
+      "modified_gmt": "2026-01-27 14:28:27",
+      "url": "https://stoische-ruhe.de/warum-stoische-ruhe-nichts-mit-gleichgueltigkeit-zu-tun-hat/",
+      "title": "Warum stoische Ruhe nichts mit Gleichgültigkeit zu tun hat"
+    },
+    {
+      "id": 988,
+      "type": "post",
+      "status": "publish",
+      "slug": "stoizismus-in-10-minuten-was-du-heute-schon-ueben-kannst",
+      "parent": 0,
+      "modified_gmt": "2026-01-27 13:15:24",
+      "url": "https://stoische-ruhe.de/stoizismus-in-10-minuten-was-du-heute-schon-ueben-kannst/",
+      "title": "Stoizismus in 10 Minuten: Was du heute schon üben kannst"
+    },
+    {
+      "id": 699,
+      "type": "post",
+      "status": "publish",
+      "slug": "warum-stoische-kontrolle-kein-kontrollzwang-ist",
+      "parent": 0,
+      "modified_gmt": "2026-01-18 15:22:00",
+      "url": "https://stoische-ruhe.de/warum-stoische-kontrolle-kein-kontrollzwang-ist/",
+      "title": "Stoische Kontrolle ist kein Kontrollzwang"
+    },
+    {
+      "id": 403,
+      "type": "post",
+      "status": "publish",
+      "slug": "warum-gelassenheit-kein-rueckzug-ist",
+      "parent": 0,
+      "modified_gmt": "2026-01-17 15:49:56",
+      "url": "https://stoische-ruhe.de/warum-gelassenheit-kein-rueckzug-ist/",
+      "title": "Warum Gelassenheit kein Rückzug ist"
+    },
+    {
+      "id": 706,
+      "type": "post",
+      "status": "publish",
+      "slug": "stoische-uebung-ist-keine-routine",
+      "parent": 0,
+      "modified_gmt": "2026-01-17 12:00:51",
+      "url": "https://stoische-ruhe.de/stoische-uebung-ist-keine-routine/",
+      "title": "Warum stoische Übung keine Routine ist"
+    },
+    {
+      "id": 674,
+      "type": "post",
+      "status": "publish",
+      "slug": "die-pause-zwischen-eindruck-und-urteil",
+      "parent": 0,
+      "modified_gmt": "2026-01-16 15:23:22",
+      "url": "https://stoische-ruhe.de/die-pause-zwischen-eindruck-und-urteil/",
+      "title": "Die Pause zwischen Eindruck und Urteil"
+    },
+    {
+      "id": 680,
+      "type": "post",
+      "status": "publish",
+      "slug": "lob-und-kritik-der-gleiche-mechanismus",
+      "parent": 0,
+      "modified_gmt": "2026-01-16 15:23:07",
+      "url": "https://stoische-ruhe.de/lob-und-kritik-der-gleiche-mechanismus/",
+      "title": "Lob und Kritik: Der gleiche Mechanismus"
+    },
+    {
+      "id": 694,
+      "type": "post",
+      "status": "publish",
+      "slug": "warum-ein-klares-nein-stoisch-sein-kann",
+      "parent": 0,
+      "modified_gmt": "2026-01-16 15:22:22",
+      "url": "https://stoische-ruhe.de/warum-ein-klares-nein-stoisch-sein-kann/",
+      "title": "Warum ein klares Nein stoisch sein kann"
+    }
+  ]
+}
