@@ -1,6 +1,46 @@
 {
   "pages": [
     {
+      "id": 129,
+      "type": "page",
+      "status": "publish",
+      "slug": "stoische-texte",
+      "parent": 0,
+      "modified_gmt": "2026-01-29 13:27:16",
+      "url": "https://stoische-ruhe.de/stoische-texte/",
+      "title": "Stoische Texte"
+    },
+    {
+      "id": 1134,
+      "type": "page",
+      "status": "publish",
+      "slug": "ueber-dankbarkeit-im-unverfuegbaren",
+      "parent": 0,
+      "modified_gmt": "2026-01-29 13:21:20",
+      "url": "https://stoische-ruhe.de/ueber-dankbarkeit-im-unverfuegbaren/",
+      "title": "Über Dankbarkeit im Unverfügbaren"
+    },
+    {
+      "id": 198,
+      "type": "page",
+      "status": "publish",
+      "slug": "ueber-innere-freiheit",
+      "parent": 129,
+      "modified_gmt": "2026-01-29 12:47:10",
+      "url": "https://stoische-ruhe.de/stoische-texte/ueber-innere-freiheit/",
+      "title": "Über innere Freiheit"
+    },
+    {
+      "id": 1131,
+      "type": "page",
+      "status": "publish",
+      "slug": "ueber-ausdauer",
+      "parent": 129,
+      "modified_gmt": "2026-01-29 12:46:13",
+      "url": "https://stoische-ruhe.de/stoische-texte/ueber-ausdauer/",
+      "title": "Über Ausdauer"
+    },
+    {
       "id": 1128,
       "type": "page",
       "status": "publish",
@@ -9,16 +49,6 @@
       "modified_gmt": "2026-01-29 12:39:17",
       "url": "https://stoische-ruhe.de/stoische-texte/ueber-zustimmung-zur-weltordnung/",
       "title": "Über Zustimmung zur Weltordnung"
-    },
-    {
-      "id": 129,
-      "type": "page",
-      "status": "publish",
-      "slug": "stoische-texte",
-      "parent": 0,
-      "modified_gmt": "2026-01-29 12:37:32",
-      "url": "https://stoische-ruhe.de/stoische-texte/",
-      "title": "Stoische Texte"
     },
     {
       "id": 1125,
@@ -309,16 +339,6 @@
       "modified_gmt": "2026-01-17 15:18:39",
       "url": "https://stoische-ruhe.de/stoische-texte/ueber-wahrnehmung-urteil/",
       "title": "Über Wahrnehmung &amp; Urteil"
-    },
-    {
-      "id": 198,
-      "type": "page",
-      "status": "publish",
-      "slug": "ueber-innere-freiheit",
-      "parent": 129,
-      "modified_gmt": "2026-01-17 15:15:10",
-      "url": "https://stoische-ruhe.de/stoische-texte/ueber-innere-freiheit/",
-      "title": "Über innere Freiheit"
     },
     {
       "id": 798,

@@ -1,0 +1,636 @@
+{
+  "meta": {
+    "generated_at": null,
+    "snapshot_version": null
+  },
+  "items": [
+    {
+      "id": 129,
+      "type": "page",
+      "slug": "stoische-texte",
+      "title": "Stoische Texte",
+      "parent": null,
+      "modified_gmt": "2026-01-29 13:27:16"
+    },
+    {
+      "id": 1134,
+      "type": "page",
+      "slug": "ueber-dankbarkeit-im-unverfuegbaren",
+      "title": "Über Dankbarkeit im Unverfügbaren",
+      "parent": null,
+      "modified_gmt": "2026-01-29 13:21:20"
+    },
+    {
+      "id": 198,
+      "type": "page",
+      "slug": "ueber-innere-freiheit",
+      "title": "Über innere Freiheit",
+      "parent": 129,
+      "modified_gmt": "2026-01-29 12:47:10"
+    },
+    {
+      "id": 1131,
+      "type": "page",
+      "slug": "ueber-ausdauer",
+      "title": "Über Ausdauer",
+      "parent": 129,
+      "modified_gmt": "2026-01-29 12:46:13"
+    },
+    {
+      "id": 1128,
+      "type": "page",
+      "slug": "ueber-zustimmung-zur-weltordnung",
+      "title": "Über Zustimmung zur Weltordnung",
+      "parent": 129,
+      "modified_gmt": "2026-01-29 12:39:17"
+    },
+    {
+      "id": 1125,
+      "type": "page",
+      "slug": "ueber-den-ersten-schritt",
+      "title": "Über den ersten Schritt",
+      "parent": 129,
+      "modified_gmt": "2026-01-29 12:36:46"
+    },
+    {
+      "id": 1094,
+      "type": "page",
+      "slug": "uebereinstimmung-mit-der-natur",
+      "title": "Übereinstimmung mit der Natur",
+      "parent": 129,
+      "modified_gmt": "2026-01-29 12:25:00"
+    },
+    {
+      "id": 1006,
+      "type": "page",
+      "slug": "ueber-die-rolle",
+      "title": "Über die Rolle",
+      "parent": 129,
+      "modified_gmt": "2026-01-29 12:24:34"
+    },
+    {
+      "id": 1110,
+      "type": "page",
+      "slug": "ueber-den-anfang-der-uebung",
+      "title": "Über den Anfang der Übung",
+      "parent": 129,
+      "modified_gmt": "2026-01-29 12:24:04"
+    },
+    {
+      "id": 563,
+      "type": "page",
+      "slug": "angemessenheit",
+      "title": "Angemessenheit",
+      "parent": 152,
+      "modified_gmt": "2026-01-29 12:21:54"
+    },
+    {
+      "id": 1107,
+      "type": "page",
+      "slug": "moderner-stoizismus",
+      "title": "Moderner Stoizismus",
+      "parent": null,
+      "modified_gmt": "2026-01-29 11:26:31"
+    },
+    {
+      "id": 865,
+      "type": "page",
+      "slug": "start",
+      "title": "Startseite",
+      "parent": null,
+      "modified_gmt": "2026-01-29 07:34:16"
+    },
+    {
+      "id": 666,
+      "type": "page",
+      "slug": "ueber-das-einzige-gute",
+      "title": "Über das einzige Gute",
+      "parent": 129,
+      "modified_gmt": "2026-01-29 04:28:52"
+    },
+    {
+      "id": 301,
+      "type": "page",
+      "slug": "zenon",
+      "title": "Zenon von Kition",
+      "parent": 170,
+      "modified_gmt": "2026-01-29 04:28:48"
+    },
+    {
+      "id": 170,
+      "type": "page",
+      "slug": "philosophen",
+      "title": "Philosophen",
+      "parent": null,
+      "modified_gmt": "2026-01-29 03:34:16"
+    },
+    {
+      "id": 152,
+      "type": "page",
+      "slug": "begriffe-konzepte",
+      "title": "Begriffe &amp; Konzepte",
+      "parent": null,
+      "modified_gmt": "2026-01-28 13:34:29"
+    },
+    {
+      "id": 839,
+      "type": "page",
+      "slug": "einstieg",
+      "title": "Einstieg",
+      "parent": null,
+      "modified_gmt": "2026-01-28 13:31:14"
+    },
+    {
+      "id": 317,
+      "type": "page",
+      "slug": "hekaton",
+      "title": "Hekaton",
+      "parent": 170,
+      "modified_gmt": "2026-01-28 08:10:20"
+    },
+    {
+      "id": 178,
+      "type": "page",
+      "slug": "marc-aurel",
+      "title": "Marc Aurel",
+      "parent": 170,
+      "modified_gmt": "2026-01-28 07:00:15"
+    },
+    {
+      "id": 192,
+      "type": "page",
+      "slug": "epiktet",
+      "title": "Epiktet",
+      "parent": 170,
+      "modified_gmt": "2026-01-28 06:59:56"
+    },
+    {
+      "id": 320,
+      "type": "page",
+      "slug": "gaius-musonius-rufus",
+      "title": "Gaius Musonius Rufus",
+      "parent": 170,
+      "modified_gmt": "2026-01-28 06:59:36"
+    },
+    {
+      "id": 187,
+      "type": "page",
+      "slug": "seneca",
+      "title": "Seneca",
+      "parent": 170,
+      "modified_gmt": "2026-01-28 06:59:12"
+    },
+    {
+      "id": 315,
+      "type": "page",
+      "slug": "poseidonios",
+      "title": "Poseidonios",
+      "parent": 170,
+      "modified_gmt": "2026-01-28 06:58:53"
+    },
+    {
+      "id": 311,
+      "type": "page",
+      "slug": "panaitios",
+      "title": "Panaitios",
+      "parent": 170,
+      "modified_gmt": "2026-01-28 06:58:11"
+    },
+    {
+      "id": 309,
+      "type": "page",
+      "slug": "chrysippos",
+      "title": "Chrysippos",
+      "parent": 170,
+      "modified_gmt": "2026-01-28 06:57:48"
+    },
+    {
+      "id": 307,
+      "type": "page",
+      "slug": "kleanthes",
+      "title": "Kleanthes",
+      "parent": 170,
+      "modified_gmt": "2026-01-28 06:57:18"
+    },
+    {
+      "id": 455,
+      "type": "page",
+      "slug": "kontakt",
+      "title": "Kontakt",
+      "parent": null,
+      "modified_gmt": "2026-01-18 17:38:15"
+    },
+    {
+      "id": 451,
+      "type": "page",
+      "slug": "impressum",
+      "title": "Impressum",
+      "parent": null,
+      "modified_gmt": "2026-01-18 17:38:08"
+    },
+    {
+      "id": 453,
+      "type": "page",
+      "slug": "datenschutz",
+      "title": "Datenschutz",
+      "parent": null,
+      "modified_gmt": "2026-01-18 17:38:03"
+    },
+    {
+      "id": 833,
+      "type": "page",
+      "slug": "oikeiosis",
+      "title": "Oikeiosis",
+      "parent": 152,
+      "modified_gmt": "2026-01-18 06:18:39"
+    },
+    {
+      "id": 829,
+      "type": "page",
+      "slug": "apatheia",
+      "title": "Apatheia",
+      "parent": 152,
+      "modified_gmt": "2026-01-18 06:12:34"
+    },
+    {
+      "id": 332,
+      "type": "page",
+      "slug": "tapferkeit",
+      "title": "Tapferkeit",
+      "parent": 152,
+      "modified_gmt": "2026-01-18 05:48:41"
+    },
+    {
+      "id": 148,
+      "type": "page",
+      "slug": "ueber-die-verganglichkeit",
+      "title": "Über die Vergänglichkeit",
+      "parent": 129,
+      "modified_gmt": "2026-01-17 15:19:20"
+    },
+    {
+      "id": 140,
+      "type": "page",
+      "slug": "ueber-wahrnehmung-urteil",
+      "title": "Über Wahrnehmung &amp; Urteil",
+      "parent": 129,
+      "modified_gmt": "2026-01-17 15:18:39"
+    },
+    {
+      "id": 798,
+      "type": "page",
+      "slug": "ueber-die-zeit",
+      "title": "Über die Zeit",
+      "parent": 129,
+      "modified_gmt": "2026-01-17 14:30:08"
+    },
+    {
+      "id": 629,
+      "type": "page",
+      "slug": "selbstverantwortung",
+      "title": "Selbstverantwortung",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 14:29:27"
+    },
+    {
+      "id": 597,
+      "type": "page",
+      "slug": "weltordnung",
+      "title": "Weltordnung",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 14:28:59"
+    },
+    {
+      "id": 593,
+      "type": "page",
+      "slug": "natur",
+      "title": "Natur",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 14:27:55"
+    },
+    {
+      "id": 231,
+      "type": "page",
+      "slug": "kontrolle",
+      "title": "Kontrolle",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:29:34"
+    },
+    {
+      "id": 218,
+      "type": "page",
+      "slug": "pflicht-verantwortung",
+      "title": "Pflicht &amp; Verantwortung",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:29:22"
+    },
+    {
+      "id": 213,
+      "type": "page",
+      "slug": "vergaenglichkeit",
+      "title": "Vergänglichkeit",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:29:15"
+    },
+    {
+      "id": 211,
+      "type": "page",
+      "slug": "tugend",
+      "title": "Tugend",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:29:06"
+    },
+    {
+      "id": 340,
+      "type": "page",
+      "slug": "naturgemaesses-leben",
+      "title": "Naturgemäßes Leben",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:28:59"
+    },
+    {
+      "id": 208,
+      "type": "page",
+      "slug": "gelassenheit",
+      "title": "Gelassenheit",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:28:49"
+    },
+    {
+      "id": 162,
+      "type": "page",
+      "slug": "urteil",
+      "title": "Urteil",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:28:41"
+    },
+    {
+      "id": 671,
+      "type": "page",
+      "slug": "zeit",
+      "title": "Zeit",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:28:28"
+    },
+    {
+      "id": 324,
+      "type": "page",
+      "slug": "weisheit",
+      "title": "Weisheit",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:28:14"
+    },
+    {
+      "id": 360,
+      "type": "page",
+      "slug": "wahrnehmung",
+      "title": "Wahrnehmung",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:28:00"
+    },
+    {
+      "id": 557,
+      "type": "page",
+      "slug": "vernunft",
+      "title": "Vernunft",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:27:51"
+    },
+    {
+      "id": 368,
+      "type": "page",
+      "slug": "uebung-askesis",
+      "title": "Übung (Askesis)",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:27:41"
+    },
+    {
+      "id": 365,
+      "type": "page",
+      "slug": "selbstfuehrung",
+      "title": "Selbstführung",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:27:20"
+    },
+    {
+      "id": 335,
+      "type": "page",
+      "slug": "maessigung",
+      "title": "Mäßigung",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:27:04"
+    },
+    {
+      "id": 394,
+      "type": "page",
+      "slug": "logos",
+      "title": "Logos",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:26:43"
+    },
+    {
+      "id": 363,
+      "type": "page",
+      "slug": "innere-freiheit",
+      "title": "Innere Freiheit",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:24:54"
+    },
+    {
+      "id": 329,
+      "type": "page",
+      "slug": "gerechtigkeit",
+      "title": "Gerechtigkeit",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:24:38"
+    },
+    {
+      "id": 691,
+      "type": "page",
+      "slug": "aufmerksamkeit",
+      "title": "Aufmerksamkeit",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:23:59"
+    },
+    {
+      "id": 398,
+      "type": "page",
+      "slug": "affekt",
+      "title": "Affekt",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:23:34"
+    },
+    {
+      "id": 240,
+      "type": "page",
+      "slug": "ueber-das-urteil",
+      "title": "Über das Urteil",
+      "parent": 129,
+      "modified_gmt": "2026-01-17 13:13:47"
+    },
+    {
+      "id": 656,
+      "type": "page",
+      "slug": "ueber-zustimmung",
+      "title": "Über Zustimmung",
+      "parent": 129,
+      "modified_gmt": "2026-01-17 13:11:41"
+    },
+    {
+      "id": 660,
+      "type": "page",
+      "slug": "ueber-mass-im-begehren",
+      "title": "Über Maß im Begehren",
+      "parent": 129,
+      "modified_gmt": "2026-01-17 13:11:26"
+    },
+    {
+      "id": 652,
+      "type": "page",
+      "slug": "ueber-die-gegenwart",
+      "title": "Über die Gegenwart",
+      "parent": 129,
+      "modified_gmt": "2026-01-17 13:11:08"
+    },
+    {
+      "id": 683,
+      "type": "page",
+      "slug": "zustimmung",
+      "title": "Zustimmung",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:09:56"
+    },
+    {
+      "id": 703,
+      "type": "page",
+      "slug": "innere-wahl",
+      "title": "Innere Wahl",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:09:41"
+    },
+    {
+      "id": 686,
+      "type": "page",
+      "slug": "indifferenz",
+      "title": "Indifferenz",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:09:35"
+    },
+    {
+      "id": 696,
+      "type": "page",
+      "slug": "eindruck",
+      "title": "Eindruck",
+      "parent": 152,
+      "modified_gmt": "2026-01-17 13:09:25"
+    },
+    {
+      "id": 624,
+      "type": "page",
+      "slug": "werturteil",
+      "title": "Werturteil",
+      "parent": 152,
+      "modified_gmt": "2026-01-16 12:48:26"
+    },
+    {
+      "id": 608,
+      "type": "page",
+      "slug": "einfachheit",
+      "title": "Einfachheit",
+      "parent": 152,
+      "modified_gmt": "2026-01-16 12:32:24"
+    },
+    {
+      "id": 605,
+      "type": "page",
+      "slug": "selbstdisziplin",
+      "title": "Selbstdisziplin",
+      "parent": 152,
+      "modified_gmt": "2026-01-16 12:32:13"
+    },
+    {
+      "id": 26,
+      "type": "page",
+      "slug": "blog",
+      "title": "Blog",
+      "parent": null,
+      "modified_gmt": "2026-01-14 04:54:46"
+    },
+    {
+      "id": 422,
+      "type": "post",
+      "slug": "warum-stoische-ruhe-nichts-mit-gleichgueltigkeit-zu-tun-hat",
+      "title": "Warum stoische Ruhe nichts mit Gleichgültigkeit zu tun hat",
+      "parent": null,
+      "modified_gmt": "2026-01-27 14:28:27"
+    },
+    {
+      "id": 988,
+      "type": "post",
+      "slug": "stoizismus-in-10-minuten-was-du-heute-schon-ueben-kannst",
+      "title": "Stoizismus in 10 Minuten: Was du heute schon üben kannst",
+      "parent": null,
+      "modified_gmt": "2026-01-27 13:15:24"
+    },
+    {
+      "id": 699,
+      "type": "post",
+      "slug": "warum-stoische-kontrolle-kein-kontrollzwang-ist",
+      "title": "Stoische Kontrolle ist kein Kontrollzwang",
+      "parent": null,
+      "modified_gmt": "2026-01-18 15:22:00"
+    },
+    {
+      "id": 403,
+      "type": "post",
+      "slug": "warum-gelassenheit-kein-rueckzug-ist",
+      "title": "Warum Gelassenheit kein Rückzug ist",
+      "parent": null,
+      "modified_gmt": "2026-01-17 15:49:56"
+    },
+    {
+      "id": 706,
+      "type": "post",
+      "slug": "stoische-uebung-ist-keine-routine",
+      "title": "Warum stoische Übung keine Routine ist",
+      "parent": null,
+      "modified_gmt": "2026-01-17 12:00:51"
+    },
+    {
+      "id": 674,
+      "type": "post",
+      "slug": "die-pause-zwischen-eindruck-und-urteil",
+      "title": "Die Pause zwischen Eindruck und Urteil",
+      "parent": null,
+      "modified_gmt": "2026-01-16 15:23:22"
+    },
+    {
+      "id": 680,
+      "type": "post",
+      "slug": "lob-und-kritik-der-gleiche-mechanismus",
+      "title": "Lob und Kritik: Der gleiche Mechanismus",
+      "parent": null,
+      "modified_gmt": "2026-01-16 15:23:07"
+    },
+    {
+      "id": 694,
+      "type": "post",
+      "slug": "warum-ein-klares-nein-stoisch-sein-kann",
+      "title": "Warum ein klares Nein stoisch sein kann",
+      "parent": null,
+      "modified_gmt": "2026-01-16 15:22:22"
+    }
+  ],
+  "menus": [
+    {
+      "id": null,
+      "location": null,
+      "name": "Footer"
+    },
+    {
+      "id": null,
+      "location": null,
+      "name": "Hauptmenü"
+    }
+  ]
+}
