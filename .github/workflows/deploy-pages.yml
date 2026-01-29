@@ -17,6 +17,12 @@ concurrency:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+
+    # Wichtig: Environment für Pages
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     steps:
       - name: Checkout
         uses: actions/checkout@v4
@@ -25,11 +31,20 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p _site
-          rsync -a snapshot/ _site/snapshot/
-          rsync -a baseline/ _site/baseline/
-          rsync -a pdf/ _site/pdf/
-          cp -f assets-index.md _site/assets-index.md || true
-          cp -f README.md _site/README.md || true
+
+          # Snapshot immer spiegeln
+          rsync -a --delete snapshot/ _site/snapshot/
+
+          # baseline/ und pdf/ nur wenn vorhanden (verhindert rsync-Fails)
+          if [ -d baseline ]; then rsync -a --delete baseline/ _site/baseline/; fi
+          if [ -d pdf ]; then rsync -a --delete pdf/ _site/pdf/; fi
+
+          # optionale Dateien
+          if [ -f assets-index.md ]; then cp -f assets-index.md _site/assets-index.md; fi
+          if [ -f README.md ]; then cp -f README.md _site/README.md; fi
+
+          # verhindert Jekyll-Filter
+          touch _site/.nojekyll
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
