@@ -1,6 +1,26 @@
 {
   "pages": [
     {
+      "id": 1110,
+      "type": "page",
+      "status": "publish",
+      "slug": "ueber-den-anfang-der-uebung",
+      "parent": 0,
+      "modified_gmt": "2026-01-29 11:49:14",
+      "url": "https://stoische-ruhe.de/ueber-den-anfang-der-uebung/",
+      "title": "Über den Anfang der Übung"
+    },
+    {
+      "id": 1107,
+      "type": "page",
+      "status": "publish",
+      "slug": "moderner-stoizismus",
+      "parent": 0,
+      "modified_gmt": "2026-01-29 11:26:31",
+      "url": "https://stoische-ruhe.de/moderner-stoizismus/",
+      "title": "Moderner Stoizismus"
+    },
+    {
       "id": 865,
       "type": "page",
       "status": "publish",
