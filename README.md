@@ -1,5 +1,4 @@
 # Stoische Ruhe Snapshots (Public)
-
 Diese Repo enthält read-only Snapshot-Dateien für stoische-ruhe.de.
 
 ## Raw Links
