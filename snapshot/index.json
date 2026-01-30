@@ -1,6 +1,16 @@
 {
   "pages": [
     {
+      "id": 1006,
+      "type": "page",
+      "status": "publish",
+      "slug": "ueber-die-rolle",
+      "parent": 129,
+      "modified_gmt": "2026-01-30 03:09:43",
+      "url": "https://stoische-ruhe.de/stoische-texte/ueber-die-rolle/",
+      "title": "Über die Rolle"
+    },
+    {
       "id": 129,
       "type": "page",
       "status": "publish",
@@ -69,16 +79,6 @@
       "modified_gmt": "2026-01-29 12:25:00",
       "url": "https://stoische-ruhe.de/stoische-texte/uebereinstimmung-mit-der-natur/",
       "title": "Übereinstimmung mit der Natur"
-    },
-    {
-      "id": 1006,
-      "type": "page",
-      "status": "publish",
-      "slug": "ueber-die-rolle",
-      "parent": 129,
-      "modified_gmt": "2026-01-29 12:24:34",
-      "url": "https://stoische-ruhe.de/stoische-texte/ueber-die-rolle/",
-      "title": "Über die Rolle"
     },
     {
       "id": 1110,

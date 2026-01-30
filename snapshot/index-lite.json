@@ -5,6 +5,14 @@
   },
   "items": [
     {
+      "id": 1006,
+      "type": "page",
+      "slug": "ueber-die-rolle",
+      "title": "Über die Rolle",
+      "parent": 129,
+      "modified_gmt": "2026-01-30 03:09:43"
+    },
+    {
       "id": 129,
       "type": "page",
       "slug": "stoische-texte",
@@ -59,14 +67,6 @@
       "title": "Übereinstimmung mit der Natur",
       "parent": 129,
       "modified_gmt": "2026-01-29 12:25:00"
-    },
-    {
-      "id": 1006,
-      "type": "page",
-      "slug": "ueber-die-rolle",
-      "title": "Über die Rolle",
-      "parent": 129,
-      "modified_gmt": "2026-01-29 12:24:34"
     },
     {
       "id": 1110,
