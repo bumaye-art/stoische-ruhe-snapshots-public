@@ -1,6 +1,16 @@
 {
   "pages": [
     {
+      "id": 865,
+      "type": "page",
+      "status": "publish",
+      "slug": "start",
+      "parent": 0,
+      "modified_gmt": "2026-03-03 17:26:40",
+      "url": "https://stoische-ruhe.de/",
+      "title": "Startseite"
+    },
+    {
       "id": 1006,
       "type": "page",
       "status": "publish",
@@ -109,16 +119,6 @@
       "modified_gmt": "2026-01-29 11:26:31",
       "url": "https://stoische-ruhe.de/moderner-stoizismus/",
       "title": "Moderner Stoizismus"
-    },
-    {
-      "id": 865,
-      "type": "page",
-      "status": "publish",
-      "slug": "start",
-      "parent": 0,
-      "modified_gmt": "2026-01-29 07:34:16",
-      "url": "https://stoische-ruhe.de/",
-      "title": "Startseite"
     },
     {
       "id": 666,

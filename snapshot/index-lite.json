@@ -5,6 +5,14 @@
   },
   "items": [
     {
+      "id": 865,
+      "type": "page",
+      "slug": "start",
+      "title": "Startseite",
+      "parent": null,
+      "modified_gmt": "2026-03-03 17:26:40"
+    },
+    {
       "id": 1006,
       "type": "page",
       "slug": "ueber-die-rolle",
@@ -91,14 +99,6 @@
       "title": "Moderner Stoizismus",
       "parent": null,
       "modified_gmt": "2026-01-29 11:26:31"
-    },
-    {
-      "id": 865,
-      "type": "page",
-      "slug": "start",
-      "title": "Startseite",
-      "parent": null,
-      "modified_gmt": "2026-01-29 07:34:16"
     },
     {
       "id": 666,
